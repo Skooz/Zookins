@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "Gad Zooks",
+        "Name": "XIVComboTweaks",
+        "Punchline": "Forked version of XIVCombo",
+        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+        "Changelog": "Check the project's GitHub for changelogs.",
+        "InternalName": "XIVComboTweaks",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/Skooz/XIVComboPlugin/tree/tweaks",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "LoadPriority": 0,
+        "IconUrl": "",
+        "DownloadLinkInstall": "",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "",
+        "DownloadLinkUpdate": "",
+        "DownloadCount": 0
+    }
+]
