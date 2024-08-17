@@ -12,11 +12,11 @@
         "DalamudApiLevel": 10,
         "LoadPriority": 0,
         "IconUrl": "",
-        "DownloadLinkInstall": "",
+        "DownloadLinkInstall": "https://github.com/Skooz/Zookins/raw/main/plugins/XIVComboTweaks/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "",
-        "DownloadLinkUpdate": "",
+        "DownloadLinkTesting": "https://github.com/Skooz/Zookins/raw/main/plugins/XIVComboTweaks/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Skooz/Zookins/raw/main/plugins/XIVComboTweaks/latest.zip",
         "DownloadCount": 0
     }
 ]
