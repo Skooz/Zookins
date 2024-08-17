@@ -1,9 +1,19 @@
 {
-  "Name": "XIV Combo Tweaks",
   "Author": "Skooz",
+  "Name": "XIV Combo Tweaks",
+  "InternalName": "XIVComboTweaks",
+  "AssemblyVersion": "1.8.5.0",
   "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
+  "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Skooz/XIVComboPlugin/tree/tweaks",
+  "Tags": [
+    "Combo"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
   "Punchline": "Forked version of Attick's XIV Combo",
-  "Tags": [ "Combo" ],
   "AcceptsFeedback": true
 }

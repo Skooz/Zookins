@@ -5,7 +5,7 @@
         "Punchline": "Forked version of XIVCombo",
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
         "Changelog": "Check the project's GitHub for changelogs.",
-        "InternalName": "XIVCombo",
+        "InternalName": "XIVComboTweaks",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/Skooz/XIVComboPlugin/tree/tweaks",
         "ApplicableVersion": "any",
