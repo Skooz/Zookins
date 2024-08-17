@@ -11,7 +11,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "LoadPriority": 0,
-        "IconUrl": "",
+        "IconUrl": null,
         "DownloadLinkInstall": "https://github.com/Skooz/Zookins/raw/main/plugins/XIVComboTweaks/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
